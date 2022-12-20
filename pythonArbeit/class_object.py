@@ -9,7 +9,7 @@
 #     def displayEmployeeInfo(self):
 #         print("Employee name : ",self.emp_name, " , Employee Salary : ",self.emp_salary)
 
-# emp1 = Employee('Shashank', 1000)
+# emp1 = Employee('Arun', 1000)
 # emp2 = Employee('Rahul', 2000)
 
 # emp1.displayEmployeeInfo()
