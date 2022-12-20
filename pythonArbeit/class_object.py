@@ -53,3 +53,7 @@ print(emp2.emp_salary)
 emp1.empcount = 10
 emp2.empcount= 20
 print(emp1.empcount)
+
+emp1.empcount = 2
+emp2.empcount= 5
+print(emp1.empcount)
