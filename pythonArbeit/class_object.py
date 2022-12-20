@@ -36,7 +36,7 @@ class Employee:
     def displayEmployeeCount(self):
         print("Employee count : ", Employee.empcount )    
 
-emp1 = Employee('Shashank', 1000)
+emp1 = Employee('chauhan', 1000)
 emp1.displayEmployeeInfo()
 emp1.displayEmployeeCount()
 emp2 = Employee('Rahul', 2000)
